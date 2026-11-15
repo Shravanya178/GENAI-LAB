@@ -1,0 +1,7 @@
+Experiment 9: Retrieval-Augmented Generation (RAG) for Document Question Answering
+
+# Cricket Bat Dataset
+https://universe.roboflow.com/mohammad-shafay-qgjsx/cricket-bat-dataset-ln3te
+
+Provided by a Roboflow user
+License: CC BY 4.0
