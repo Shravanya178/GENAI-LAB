@@ -1,0 +1,8 @@
+Experiment 1: Text Generation using GPT-2
+
+Prompts:
+1. Artificial Intelligence will shape the future of
+2. Generative AI is transforming education because
+3. Sustainability can be improved through
+4. The future of healthcare will depend on
+5. Technology and human creativity together can
