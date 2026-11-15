@@ -1,0 +1,49 @@
+Experiment 3: Prompt Engineering using FLAN-T5-Small
+
+Task 1: Explain a concept
+Explain why a cricket batter should keep their head balanced while playing a straight drive.
+
+Few-shot examples:
+Input: Explain why a batter watches the ball.
+Output: Watching the ball helps the batter judge its line and length and time the shot.
+Input: Explain why footwork matters.
+Output: Footwork helps the batter reach the ball while maintaining balance.
+
+Task 2: Create a drill
+Suggest a safe 10-minute beginner drill to practise front-foot defence.
+
+Few-shot examples:
+Input: Give a 5-minute warm-up.
+Output: 1) Easy jogging, 2) shoulder mobility, 3) gentle dynamic stretches. Stop if pain occurs.
+Input: Suggest a catching drill.
+Output: Use soft throws, start close, focus on watching the ball, and increase distance gradually.
+
+Task 3: Summarize
+Summarize in two bullets: A batter should assess the line and length, move their feet early, keep their head steady, and practise consistently. A coach should give specific feedback and avoid changing too many things at once.
+
+Few-shot examples:
+Input: Summarize: Warm up first, practise slowly, then increase pace.
+Output: Warm up before practice. Increase intensity gradually.
+Input: Summarize: Watch the ball and keep balance.
+Output: Track the ball. Maintain balance.
+
+Task 4: Give feedback
+A fictional batter repeatedly loses balance after attempting a cover drive. Give three constructive coaching suggestions without diagnosing an injury.
+
+Few-shot examples:
+Input: A batter swings too early.
+Output: Track the ball longer. Practise slowly with controlled feeds. Ask a coach to observe timing.
+Input: A batter's backlift is inconsistent.
+Output: Use shadow practice. Repeat a comfortable setup. Review short video clips with a coach.
+
+Task 5: Answer with uncertainty
+Can a webcam alone prove that a cricket batter will score a century in their next match? Answer briefly and explain the limitation.
+
+Few-shot examples:
+Input: Can a video guarantee a player will never miss a shot?
+Output: No. Video can show technique in the recorded conditions, but it cannot guarantee future performance.
+Input: Can one practice session prove long-term improvement?
+Output: No. Repeated measurements across sessions are needed.
+
+Prompting techniques tested:
+Zero-shot, Few-shot, Step-by-step, Role prompting.
