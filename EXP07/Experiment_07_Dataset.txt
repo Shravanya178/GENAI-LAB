@@ -1,0 +1,19 @@
+Experiment 7: Comparative Study of GPT-2, BERT and DistilBERT
+
+GPT-2 prompts:
+1. A beginner cricket batter can improve their balance by
+2. A coach reviewing a cover drive should first observe
+3. A useful 15-minute batting practice session includes
+
+Temperature comparison prompt:
+A cricket coach gives feedback by
+
+Temperature values:
+0.3, 0.8, 1.2
+
+BERT masked-token sentence:
+A cricket batter should maintain [MASK] while playing a shot.
+
+DistilBERT sentiment analysis sentences:
+1. The coaching session was helpful and encouraging.
+2. The instructions were confusing and frustrating.
