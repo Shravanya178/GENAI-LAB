@@ -1,0 +1,10 @@
+Experiment 4: Variational Autoencoder (VAE) for Image Generation
+
+Dataset: MNIST Handwritten Digits
+Source: https://keras.io/api/datasets/mnist/
+Original dataset: http://yann.lecun.com/exdb/mnist/
+
+Training images: 60,000
+Testing images: 10,000
+Image dimensions: 28 x 28 pixels
+Image type: Grayscale handwritten digits (0 to 9)
