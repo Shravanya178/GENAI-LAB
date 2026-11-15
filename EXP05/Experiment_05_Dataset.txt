@@ -1,0 +1,10 @@
+Experiment 5: English-to-French Translation using T5 and BLEU Score
+
+English sentence | Reference French translation
+
+Hello, how are you? | Bonjour, comment allez-vous ?
+I love artificial intelligence. | J'aime l'intelligence artificielle.
+The weather is very good today. | Le temps est très beau aujourd'hui.
+I am a computer science student. | Je suis étudiant en informatique.
+Cricket is a popular sport. | Le cricket est un sport populaire.
+The coach gives useful advice. | L'entraîneur donne des conseils utiles.
