@@ -1,0 +1,27 @@
+Experiment 2: NLP Preprocessing and Word2Vec
+
+Sustainability is an important concept that focuses on meeting the needs of the present
+without compromising the ability of future generations to meet their own needs. A
+sustainable society uses natural resources carefully and reduces activities that damage
+the environment. Climate change, pollution, deforestation, loss of biodiversity, and
+excessive consumption have increased the need for sustainable development around the
+world. Individuals, businesses, governments, and educational institutions all have an
+important role in creating a more sustainable future.
+
+Renewable energy sources such as solar energy, wind energy, and hydropower can reduce
+dependence on fossil fuels and decrease greenhouse gas emissions. Sustainable
+transportation, including public transport, electric vehicles, cycling, and walking, can
+also reduce air pollution and energy consumption. Recycling, reusing materials, and
+reducing waste help conserve valuable natural resources. Communities can promote
+sustainability by using efficient technologies, supporting local products, protecting
+forests and water resources, and encouraging responsible consumption.
+
+Education is also essential for sustainability because it helps people understand the
+environmental, social, and economic consequences of their decisions. Students and
+citizens can contribute by saving electricity, reducing plastic use, conserving water,
+and choosing environmentally responsible products. Businesses can adopt sustainable
+production methods and develop innovative technologies that reduce waste and improve
+efficiency. Governments can create policies that support clean energy, environmental
+protection, and sustainable development. Through cooperation, innovation, awareness,
+and responsible decision making, society can build a healthier environment and create
+a more sustainable future for present and future generations.
