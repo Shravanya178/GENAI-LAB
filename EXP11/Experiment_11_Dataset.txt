@@ -1,0 +1,7 @@
+Experiment 11: Development and Deployment of BatCoach AI using Gradio
+
+# Cricket Bat Dataset
+https://universe.roboflow.com/mohammad-shafay-qgjsx/cricket-bat-dataset-ln3te
+
+Provided by a Roboflow user
+License: CC BY 4.0
